@@ -443,9 +443,9 @@
     (pad "64" thru_hole oval (at 2.54 78.74) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 3 "+5V") (pinfunction "Pin_64") (pintype "passive") (tstamp 0cdda342-c79d-43fc-bccd-11539ade7d0d))
     (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x32_P2.54mm_Vertical.wrl"
-      (offset (xyz 0 0 0))
+      (offset (xyz 2.5 0 -1.5))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 180 0))
     )
   )
 
@@ -1719,9 +1719,9 @@
     (pad "64" thru_hole oval (at 2.54 78.74) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 3 "+5V") (pinfunction "Pin_64") (pintype "passive") (tstamp d5cacdc5-a5ac-4178-b2ac-a671958d6bf3))
     (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x32_P2.54mm_Vertical.wrl"
-      (offset (xyz 0 0 0))
+      (offset (xyz 2 0 -2))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 180 0))
     )
   )
 
