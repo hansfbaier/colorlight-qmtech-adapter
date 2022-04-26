@@ -6,3 +6,7 @@ Adapter to use Colorlight i5/i9 FPGA boards in a QMTech board form factor
 Please note:
 * J1 Pin 8 is not length matched to the other Pins.
 * J1 Pins 59 and 60 are not connected!
+
+# Variants
+* [With vertical connector] (https://github.com/hansfbaier/colorlight-qmtech-adapter/tree/upright-connector)
+* [With vertical connector and ethernet jacks] (https://github.com/hansfbaier/colorlight-qmtech-adapter/tree/upright-with-ethernet)
