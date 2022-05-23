@@ -8,6 +8,9 @@ Please note:
 * J1 Pin 8 is not length matched to the other Pins.
 * J1 Pins 59 and 60 are not connected!
 
+# Status
+I have manufactured the board and both ethernet Ports have been tested and working!
+
 # Variants
 * [With horizontal connector] (https://github.com/hansfbaier/colorlight-qmtech-adapter/)
 * [With vertical connector] (https://github.com/hansfbaier/colorlight-qmtech-adapter/tree/upright-connector)
