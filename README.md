@@ -9,7 +9,7 @@ Please note:
 * J1 Pins 59 and 60 are not connected!
 
 # Status
-I have manufactured the board and both ethernet Ports have been tested and working!
+I have manufactured the board and both ethernet ports have been tested and confirmed working!
 
 # Variants
 * [With horizontal connector] (https://github.com/hansfbaier/colorlight-qmtech-adapter/)
