@@ -10,3 +10,4 @@ Please note:
 # Variants
 * [With vertical connector] (https://github.com/hansfbaier/colorlight-qmtech-adapter/tree/upright-connector)
 * [With vertical connector and ethernet jacks] (https://github.com/hansfbaier/colorlight-qmtech-adapter/tree/upright-with-ethernet)
+* [With horizontal connector and ethernet jacks] (https://github.com/hansfbaier/colorlight-qmtech-adapter/tree/horizontal-with-ethernet)
